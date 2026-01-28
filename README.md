@@ -1,7 +1,3 @@
-Pour se déplacer : flèches
-Le joueur avance selon là où la caméra regarde
-Pour changer de vue : C
-
 # 🪐 DEC Système Solaire
 
 ![Type](https://img.shields.io/badge/Type-Simulation%203D-blueviolet)
